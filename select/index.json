@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Good Morning, Polar Night",
+  "base_artist": "ウォルピスカーター",
+  "createdAt": "2026-02-21T09:19:12.355512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Morning, Polar Night",
+      "artist": "yukkedoluce",
+      "has_synced": true,
+      "path": "select/01_Good_Morning,_Polar_Night_yukkedoluce.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Morning, Polar Night",
+      "artist": "Wolpis Carter",
+      "has_synced": false,
+      "path": "select/02_Good_Morning,_Polar_Night_Wolpis_Carter.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Morning, Polar Night",
+      "artist": "ウォルピスカーター",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Morning,_Polar_Night_ウォルピスカーター.txt"
+    }
+  ]
+}
